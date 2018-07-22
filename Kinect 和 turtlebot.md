@@ -2,11 +2,14 @@
 
 标签（空格分隔）： ROS Kinect Turtlebot
 
-[TOC]
+
 
 
 
 ---
+
+[TOC]
+
 ### ros初始化时,出错
  
 > $ rosdep update

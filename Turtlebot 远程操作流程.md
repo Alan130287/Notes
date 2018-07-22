@@ -1,6 +1,5 @@
 # Turtlebot 远程操作流程
 
-标签（空格分隔）： ROS Turtlebot Kinect
 
 ---
 

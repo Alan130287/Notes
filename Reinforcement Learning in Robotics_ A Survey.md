@@ -1,6 +1,5 @@
 # Reinforcement Learning in Robotics: A Survey
 
-标签（空格分隔）： PaperReview
 
 ---
 

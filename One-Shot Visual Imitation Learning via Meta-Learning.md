@@ -1,5 +1,4 @@
 # One-Shot Visual Imitation Learning via Meta-Learning
-标签（空格分隔）： PaperReview
 
 ---
 [TOC]

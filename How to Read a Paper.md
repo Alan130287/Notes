@@ -1,8 +1,10 @@
 # How to Read a Paper
 
-标签（空格分隔）： Learning PaperReview
 
 ---
+
+[TOC]
+
 ### The First Pass 
 Read paper for several reasons
 1. To review them for a conference or a class

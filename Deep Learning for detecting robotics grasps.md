@@ -1,6 +1,5 @@
 # Deep Learning for detecting robotics grasps
 
-标签（空格分隔）： PaperReview
 ---
 
 [TOC]

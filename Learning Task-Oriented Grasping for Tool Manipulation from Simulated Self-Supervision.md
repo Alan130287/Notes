@@ -1,6 +1,5 @@
 # Learning Task-Oriented Grasping for Tool Manipulation from Simulated Self-Supervision
 
-标签（空格分隔）： PaperReview Grasping
 ---
 
 [TOC]

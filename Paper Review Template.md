@@ -1,6 +1,5 @@
 # Paper Review Template
 
-标签（空格分隔）： PaperReview Template
 ---
 
 [TOC]

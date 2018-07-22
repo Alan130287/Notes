@@ -1,6 +1,5 @@
 # ROS python 脚本go_to_specific_point_on_map.py解析
 
-标签（空格分隔）： ROS python
 
 ---
 

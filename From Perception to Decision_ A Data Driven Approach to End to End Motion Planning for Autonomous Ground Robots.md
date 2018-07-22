@@ -1,6 +1,5 @@
 # From Perception to Decision: A Data Driven Approach to End to End Motion Planning for Autonomous Ground Robots
 
-标签（空格分隔）： PaperReview DRL Turtlebot
 
 ---
 

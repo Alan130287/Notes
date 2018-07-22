@@ -1,8 +1,9 @@
 # Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
 
-标签（空格分隔）： PaperReview
-
 ---
+
+[TOC]
+
 ## First Pass
 > 1. Carefully read the title, abstract, and introduction
 2. Read the section and sub-section headings, but ignore everything else

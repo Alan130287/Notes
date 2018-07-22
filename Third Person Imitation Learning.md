@@ -1,6 +1,5 @@
 # Third Person Imitation Learning
 
-标签（空格分隔）： PaperReview 
 ---
 
 [TOC]

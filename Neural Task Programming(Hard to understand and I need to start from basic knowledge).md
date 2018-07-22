@@ -1,6 +1,5 @@
 # Neural Task Programming(Hard to understand and I need to start from basic knowledge)
 
-标签（空格分隔）： PaperReview
 ---
 
 [TOC]
