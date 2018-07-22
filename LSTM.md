@@ -3,7 +3,7 @@ LSTM
 
 [TOC]
 
-References
+## References
 > [李宏毅](https://www.youtube.com/watch?v=IzHoNwlCGnE&index=1&list=PLJV_el3uVTsPMxPbjeX7PicgWbY7F8wW9)
 
 ## Naive RNN vs LSTM
