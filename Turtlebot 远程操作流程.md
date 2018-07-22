@@ -12,7 +12,7 @@ export ROS_HOSTNAME=IP_OF_PC
 >export ROS_MASTER_URI=http://localhost:11311
 export ROS_HOSTNAME=IP_OF_TURTLEBOT
 
-> 注意，就算已经修改过了，ip地址任可能改变，所以每次操作都要进行修改。
+> 注意，就算已经修改过了，ip地址也可能改变，所以每次操作都要进行修改。不需要远程操作的时候要把主机的相关部分注释掉。
 
 
 2. 在主机上通过ssh登陆turtlebot(就是turtlebot上的笔记本，之后提及的turtlebot操作都默认为主机ssh登陆下的操作，下同)
