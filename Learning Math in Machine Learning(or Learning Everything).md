@@ -1,9 +1,8 @@
-# Learning Math in Machine Learning(or Learning Everything)
+﻿# Learning Math in Machine Learning(or Learning Everything)
 
+标签（空格分隔）： How_to_Learn Math
 
 ---
-
-[TOC]
 
 References
 >[Video of Siraj Raval

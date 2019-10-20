@@ -1,6 +1,6 @@
-﻿# Paper Review Template
+﻿# Hierarchical Task and Motion Planning in the Now
 
-标签（空格分隔）： PaperReview Graph Task
+标签（空格分隔）： PaperReview Task DRL Robotics
 ---
 
 [TOC]
@@ -13,14 +13,17 @@
 5. Glance over the references, mentally ticking off the ones you've already read.
 
 `Five Cs`:
-1. `Category`: What type of paper is this? A measurement paper? An analysis of an existing system? A description of a research prototype?
-2. `Context`: Which other papers is it related to? Which theoretical bases were used to analyze the problem?
-3. `Correctness`: Do the assumption appear to be valid?
-4. `Contribution`: What are the paper's main contribution?
-5. `Clarity`: Is the paper well written?
+1. `Category`: An approach to the integration of task planning and motion planning that is aggressively hierarchical.
+2. `Context`: STRIPS(STanford Research Institute Problem Solver)
+3. `Correctness`: 
+4. `Contribution`: The hierarchical integration of task planning and motion planning that make choices and commits to them in a top-down fashion in an attempt to limit the length of plans that need to be constructed and thereby exponentially decrease the amount of search require.
+5. `Clarity`: 
 
 
 ## Key Points of Paper
+![image.png-63.4kB][1]
+
+![image.png-115.1kB][2]
 
 ## Second Pass
 > Read the paper with greater care but ignore details such as proofs.
@@ -32,11 +35,7 @@
 
 
 ### Unread References
-> A new model for learning in graph domain
-The graph neural network model
-Gated Graph Sequence neural networks
-Learning Phrase representations using rnn encoder-decoder for statistical machine translation
-
+> 
 
 ### The Main Trust of Paper with Supporting Evidence
 
@@ -74,36 +73,5 @@ Learning Phrase representations using rnn encoder-decoder for statistical machin
 * c
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  [1]: http://static.zybuluo.com/Counting/qi6jh3q6zdxh9jpyyxhonuo0/image.png
+  [2]: http://static.zybuluo.com/Counting/y19jm58el6jxdlw6ip4nptk0/image.png

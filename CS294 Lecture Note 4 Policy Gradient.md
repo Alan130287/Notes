@@ -1,9 +1,9 @@
-# CS294 Lecture Note 4 Policy Gradient
+﻿# CS294 Lecture Note 4 Policy Gradient
+
+标签（空格分隔）： LectureNote
 
 ---
-
 [TOC]
-
 ## Outline
 1. The policy gradient algorithm
 2. What does the policy gradient do?

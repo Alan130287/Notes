@@ -1,6 +1,6 @@
-﻿# Paper Review Template
+﻿# Deep Compositional Question Answering With Neural Module Networks
 
-标签（空格分隔）： PaperReview Graph Task
+标签（空格分隔）： PaperReview Task ModularNetwork
 ---
 
 [TOC]
@@ -13,15 +13,17 @@
 5. Glance over the references, mentally ticking off the ones you've already read.
 
 `Five Cs`:
-1. `Category`: What type of paper is this? A measurement paper? An analysis of an existing system? A description of a research prototype?
-2. `Context`: Which other papers is it related to? Which theoretical bases were used to analyze the problem?
-3. `Correctness`: Do the assumption appear to be valid?
-4. `Contribution`: What are the paper's main contribution?
-5. `Clarity`: Is the paper well written?
+1. `Category`: Neural Module Network for visual question answering
+2. `Context`: 
+3. `Correctness`: 
+4. `Contribution`: Simultaneously exploit the representational capacity of deep networks and the compositional linguistic structure of questions.
+5. `Clarity`:
 
 
 ## Key Points of Paper
+![image.png-165.7kB][1]
 
+`To be continued in the future`
 ## Second Pass
 > Read the paper with greater care but ignore details such as proofs.
 ### Questions:
@@ -32,11 +34,8 @@
 
 
 ### Unread References
-> A new model for learning in graph domain
-The graph neural network model
-Gated Graph Sequence neural networks
-Learning Phrase representations using rnn encoder-decoder for statistical machine translation
-
+> Visual Question Answering
+Ask Your Neurons: A Neural-Based Approach to Answering Questions About Images
 
 ### The Main Trust of Paper with Supporting Evidence
 
@@ -74,36 +73,4 @@ Learning Phrase representations using rnn encoder-decoder for statistical machin
 * c
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  [1]: http://static.zybuluo.com/Counting/5ou7bpwlcylp61r1snan7w7g/image.png

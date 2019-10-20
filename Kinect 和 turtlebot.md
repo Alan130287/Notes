@@ -1,15 +1,12 @@
-# Kinect 和 turtlebot 
+﻿# Kinect 和 turtlebot 
 
 标签（空格分隔）： ROS Kinect Turtlebot
 
-
+[TOC]
 
 
 
 ---
-
-[TOC]
-
 ### ros初始化时,出错
  
 > $ rosdep update
@@ -149,6 +146,16 @@ add
 > export TURTLEBOT_3D_SENSOR=kinect
 
 in ~/.bashrc 
+
+## kinect 在测试完别的Robot Peception 的代码后就无法连接
+
+显示为
+>roslaunch freenect_launch freenect.launch
+...
+No Device Connected
+...
+
+解决办法：打开turtlebot，再打开kinect...
 
 
 

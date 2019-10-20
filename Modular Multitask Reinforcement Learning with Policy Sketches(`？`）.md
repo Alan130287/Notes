@@ -1,6 +1,6 @@
-﻿# Paper Review Template
+﻿# Modular Multitask Reinforcement Learning with Policy Sketches(`？`）
 
-标签（空格分隔）： PaperReview Graph Task
+标签（空格分隔）： PaperReview DRL
 ---
 
 [TOC]
@@ -13,11 +13,11 @@
 5. Glance over the references, mentally ticking off the ones you've already read.
 
 `Five Cs`:
-1. `Category`: What type of paper is this? A measurement paper? An analysis of an existing system? A description of a research prototype?
-2. `Context`: Which other papers is it related to? Which theoretical bases were used to analyze the problem?
-3. `Correctness`: Do the assumption appear to be valid?
-4. `Contribution`: What are the paper's main contribution?
-5. `Clarity`: Is the paper well written?
+1. `Category`: 
+2. `Context`:
+3. `Correctness`: 
+4. `Contribution`: 
+5. `Clarity`: 
 
 
 ## Key Points of Paper
@@ -32,11 +32,10 @@
 
 
 ### Unread References
-> A new model for learning in graph domain
-The graph neural network model
-Gated Graph Sequence neural networks
-Learning Phrase representations using rnn encoder-decoder for statistical machine translation
-
+* a
+* b
+* c
+* d
 
 ### The Main Trust of Paper with Supporting Evidence
 

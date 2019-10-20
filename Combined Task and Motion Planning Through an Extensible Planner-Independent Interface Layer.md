@@ -1,6 +1,6 @@
-﻿# Paper Review Template
+﻿# Combined Task and Motion Planning Through an Extensible Planner-Independent Interface Layer
 
-标签（空格分隔）： PaperReview Graph Task
+标签（空格分隔）： PaperReview DRL Robotics
 ---
 
 [TOC]
@@ -13,7 +13,7 @@
 5. Glance over the references, mentally ticking off the ones you've already read.
 
 `Five Cs`:
-1. `Category`: What type of paper is this? A measurement paper? An analysis of an existing system? A description of a research prototype?
+1. `Category`: Traditional method which is incomprehensible.
 2. `Context`: Which other papers is it related to? Which theoretical bases were used to analyze the problem?
 3. `Correctness`: Do the assumption appear to be valid?
 4. `Contribution`: What are the paper's main contribution?
@@ -32,11 +32,7 @@
 
 
 ### Unread References
-> A new model for learning in graph domain
-The graph neural network model
-Gated Graph Sequence neural networks
-Learning Phrase representations using rnn encoder-decoder for statistical machine translation
-
+> 
 
 ### The Main Trust of Paper with Supporting Evidence
 
@@ -72,6 +68,9 @@ Learning Phrase representations using rnn encoder-decoder for statistical machin
 * a
 * b
 * c
+
+
+
 
 
 
